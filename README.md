@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=42&duration=3000&pause=1000&color=006874&center=true&vCenter=true&width=600&lines=📖+CoolWiki;Beautiful+Wikipedia+Reader;Knowledge%2C+Beautifully+Delivered" alt="CoolWiki Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006874,50:4fd8eb,100:97f0ff&height=200&section=header&text=📖%20CoolWiki&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Beautiful%20Wikipedia%20Reader&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="CoolWiki Banner" />
 
 <br/>
 
@@ -305,5 +305,9 @@ MIT License — use it, modify it, ship it.
 <br/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=coolwiki.readme&left_color=006874&right_color=4fd8eb)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:97f0ff,50:4fd8eb,100:006874&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
